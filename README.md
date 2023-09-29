@@ -7,20 +7,29 @@ Hotel review microservices, comprised of the Hotel Service, User Service, and Re
 
 
 	Functionality:
+
 Hotel Information: Stores and manages data about hotels, such as their names, locations, contact information, and descriptions.
+
 Hotel Search: Provides functionalities to search for hotels based on various criteria like location, price, rating, and more.
 
 2.User Service: The User Service manages user-related functionalities. It handles user registration, authentication, and profile management.
 
 	Functionality:
+
 	User Registration: Allows users to create accounts with unique usernames and passwords.
+
 	Authentication: Provides user authentication services to ensure secure access to the system.
+
 	Profile Management: Manages user profiles, including user preferences and personal information.
+
 	Security: Ensures that user data and access are secure through authentication and authorization mechanisms.
 
 3.Review Service: The Review Service is responsible for collecting, storing, and retrieving hotel reviews submitted by users.
 
 	Functionality:
+
 	Review Submission: Allows users to submit reviews for hotels, including ratings, comments, and optional media attachments (e.g., photos).
+
 	Review Retrieval: Provides APIs for retrieving reviews for specific hotels, users, or based on various criteria (e.g., top-rated reviews, most recent reviews).
+
 	User Interaction: Enables users to like, comment on, or report reviews, promoting user engagement.
