@@ -5,9 +5,10 @@ Hotel review microservices, comprised of the Hotel Service, User Service, and Re
 
 1.Hotel Service: The Hotel Service is responsible for managing information related to hotels. It acts as a central repository for hotel details, including their names, locations, and amenities.
 
+
 	Functionality:
-	Hotel Information: Stores and manages data about hotels, such as their names, locations, contact information, and descriptions.
-	Hotel Search: Provides functionalities to search for hotels based on various criteria like location, price, rating, and more.
+Hotel Information: Stores and manages data about hotels, such as their names, locations, contact information, and descriptions.
+Hotel Search: Provides functionalities to search for hotels based on various criteria like location, price, rating, and more.
 
 2.User Service: The User Service manages user-related functionalities. It handles user registration, authentication, and profile management.
 
